@@ -2,3 +2,5 @@ Welcome to GitHero where we test your git skills through challenging tasks and q
 This repo is for your first task. Complete all the challenges within the given time.
 Tasks will be posted on Aparoksha's Discord server.
 Good Luck!
+
+Develop or any other branch is typically created by Admin to restrict developers to make any changes in the main 
